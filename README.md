@@ -26,3 +26,6 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento front-end 
 ---
 
 _Feito com ❤️ e dedicação!_
+---
+💡 Estou sempre aberto a novas ideias e colaborações!  
+📬 Entre em contato: [vitor.minatel@gmail.com](mailto:vitor.minatel@gmail.com)
